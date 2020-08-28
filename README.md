@@ -1,8 +1,9 @@
 # To-Do-List-using-JavaScript-ES6
 
 This is a simple To-Do-List Website using HTML,CSS and Javascript ES6.
+The detail function descriptions are in the code in main.js file
 
-# Features:  (The detail function descriptions are in the code in main.js) 
+# Features: 
 
  # 1. Add To-Dos to list using ADD button & Enter Key on your key board
  # 2. List View To-Dos
